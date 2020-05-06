@@ -36,15 +36,22 @@ Artist Demographic: We started our demographic analysis by trying to find data o
 
 Below are the graphs for top positive, neural, negative, and compound sentiment in songs over time. 
 
+![unnamed-2](https://user-images.githubusercontent.com/46971333/81143567-ffb80280-8f26-11ea-968b-73187d4db2d3.png)
 
 
 Lyrical Sentiment: As you can see, over time the compound sentiment of songs has had a downward trend, moving towards more negative sentiment. There’s quite a big difference between some of the songs in the middle of the 20th century versus just 50 years later. Who does this reflect on? The people consuming the music or the ones producing it? Are humans more sad as a global population, or is art moving in a direction that is more negative? One could argue both, as many think of art as a reflection of the world.
 
+![unnamed-5](https://user-images.githubusercontent.com/46971333/81143693-44dc3480-8f27-11ea-8035-a6a5d19b2104.png)
+
+
 Lyrical Sentiment vs Global Events: When comparing lyrical sentiment to global events, we found very low correlation, even when offsetting the timelines by a year. It was interesting to see that the offset comparison did have a correlation double the magnitude of the initial comparison. It could be a coincidence, but looking at a larger set of data might provide some clarity! 
 
+![unnamed-4](https://user-images.githubusercontent.com/46971333/81143673-39890900-8f27-11ea-9e24-8afbf9f3dfd4.png)
 
 Creativity: We then looked at the creativity of songs, particularly at repetitive lyrics and lines within genres. This, then, highlights ideas of originality, what’s popular, and what’s trending. As time has gone on, we can see that the average percentage of repetition in songs has definitely gone up in the positive direction. This is likely because catchphrases and choruses have gained popularity. In recent times, most people know songs through the premise of the chorus, and money grabs in the industry pretty much mandate original, catchy, short choruses in order to make it onto the Billboard Top 100. Many modern day sociological theorists suggest that the repetition of certain phrases and chorus increase an artist’s “recognizableness” and can define an artist - hence, the more recognizable, the more revenue. Music these days has also shifted towards at-home artists rather than mainstream recording studios. Ever notice how you’ll remember a chorus of a song from the last 10-15 years or so off the top of your head better than the chorus of a song you might remember your parents singing to growing up from their “good old days?” Might we remind you all of 1. ‘Gucci Gang’, 2. Anything featuring DJ Khaled, 3. Literally every song on TikTok as incredible examples of this very phenomenon. 
 
+
+![unnamed-3](https://user-images.githubusercontent.com/46971333/81143640-270ecf80-8f27-11ea-9e1d-e3fa5127ac81.png)
 
 
 Genre Evolution: We also looked at music by genres to see if some are truly “timeless” - that is, consistent, popular, and dominant within the music industry. 
