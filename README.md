@@ -1,2 +1,2 @@
-# billboard-top-100-final-project
-Final Project: How Music Represents the State of the World
+Billboard Top 100 Analysis from 1950 - 2015 for Computational Analysis of Big Data course Spring 2020. <br>
+By Imani Gosserand and Michelle Zhang
